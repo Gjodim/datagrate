@@ -1,0 +1,22 @@
+{
+  "name": "datagrate",
+  "version": "1.0.0",
+  "description": "datagrate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gjodim/datagrate.git"
+  },
+  "author": "Gjorgi Dimov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gjodim/datagrate/issues"
+  },
+  "homepage": "https://github.com/Gjodim/datagrate#readme",
+  "dependencies": {
+    "cypress": "^9.5.3"
+  }
+}
